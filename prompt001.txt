@@ -1,0 +1,22 @@
+>explorar e revisar conteúdos complexos
+explique {tema} de maneira simples e sugira um plano de estudo para entender melhor.
+
+>simular situações de aprendizado prático
+simule uma conversa ou prática sobre {tema}, e me corrija se eu cometer algum erro.
+
+>revisar e reforçar conteúdos
+crie um resumo sobre {tema} para revisão rápida.
+
+>como fazer o chatgpt pensar antes de responder? - isso tem um efeito de inverter a lógica da interação
+antes de responder, me faça perguntas para entender melhor o contexto.
+exemplos:
+antes de sugerir um plano de estudos, me faça perguntas para entender meu nível atual, meus objetivos e meu tempo disponível.
+quero que você me ajude a reestruturar meu currículo. mas, antes pergunte tudo o que precisa saber sobre a minha carreira.
+estou criando um produto novo. antes de dar ideia de nome, me pergunte sobre o público, o diferencial e o posicionamento da marca.
+
+--
+
+chatgpt
+gemini
+mari talk
+
