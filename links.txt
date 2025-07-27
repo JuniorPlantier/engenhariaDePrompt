@@ -1,3 +1,0 @@
-https://platform.openai.com/tokenizer
-
-https://aistudio.google.com/app/prompts/new_chat

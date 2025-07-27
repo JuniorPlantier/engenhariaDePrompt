@@ -1,8 +1,4 @@
-a utilização de ia no dia a dia
-	qual problema resolver com ia?
-	como resolver o problema do cliente?
-	IA
-não existe inteligência artificial de fato! 
+	não existe inteligência artificial de fato! 
 inteligência de fato é o resultado de um processo organico, logo não pode ser artificial. 
 e na verdade é um consiencia artificial, que é baseada em big data... então a patir de algumas linguagens de programação e a internet a gente ensina a máquina.
 exemplo: qdo vc interage com o chat gpt ou qualquer outro chat e ele responde de forma errada e vc faz a correção, ele não entende que vc está corrigindo ele mas sim que vc está treinando ele. então, depois de contextualizar ele responde de um forma diferente ou seja qdo maior o nível cultural de quem está interagindo e contextualizado fornece para máquina mais ela treina e melhora a resposta e é por isso que existem diversas IAs surginfo mas no final se comportam da mesma forma pq elas tem uma padrão em comum.
