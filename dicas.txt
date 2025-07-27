@@ -1,0 +1,26 @@
+>explorar e revisar conteúdos complexos
+explique {tema} de maneira simples e sugira um plano de estudo para entender melhor.
+
+>simular situações de aprendizado prático
+simule uma conversa ou prática sobre {tema}, e me corrija se eu cometer algum erro.
+
+>revisar e reforçar conteúdos
+crie um resumo sobre {tema} para revisão rápida.
+
+>como fazer o chatgpt pensar antes de responder? - isso tem um efeito de inverter a lógica da interação
+antes de responder, me faça perguntas para entender melhor o contexto.
+exemplos:
+antes de sugerir um plano de estudos, me faça perguntas para entender meu nível atual, meus objetivos e meu tempo disponível.
+quero que você me ajude a reestruturar meu currículo. mas, antes pergunte tudo o que precisa saber sobre a minha carreira.
+estou criando um produto novo. antes de dar ideia de nome, me pergunte sobre o público, o diferencial e o posicionamento da marca.
+--
+--
+--
+Curiosidade: Não existe inteligência artificial de fato. 
+
+A inteligência é um processo orgânico, logo não pode ser artificial. 
+O que temos hoje é uma "consciência artificial", treinada com dados. Quando você corrige o ChatGPT, por exemplo, ele não entende como correção, mas como treino. Quanto melhor o contexto e o nível cultural de quem interage, melhor a IA responde. 
+É pos isso que exitem deiversas IAs surgindo mas no final se comportando de forma parecida, pq elas tem um padrão em comum.
+--
+--
+--
