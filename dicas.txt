@@ -26,6 +26,12 @@ exemplos:
 	quero que você me ajude a reestruturar meu currículo. mas, antes pergunte tudo o que precisa saber sobre a minha carreira.
 	estou criando um produto novo. antes de dar ideia de nome, me pergunte sobre o público, o diferencial e o posicionamento da marca.
 --
+	qual é o limite da IA?
+ele vai tentar responder! porém nem sempre dá pra confiar
+	qual é a origem dos dados?
+a internet, então provavelmente ela não consumiu dados 100% confiáveis. a IA assume que aquilo é verdadeiro.
+
+o chatGPT é vendido como um assistente.
 /* ****************************************** 
    ****************************************** */
 Curiosidade: Não existe inteligência artificial de fato. 
