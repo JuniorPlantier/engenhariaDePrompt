@@ -1,0 +1,44 @@
+1) seja sempre claro e detalhista
+-
+2) sempre dê um contexto dentro do prompt
+-
+3) teste diferentes abordagens
+-
+4) dividir tarefas mais complexas
+se fizer um documento ao invés de criar em um só prompt a ideia de um documento, vc pode criar um propmt para introdução, outro para o desenvolvimento e outra para conclusão. assim o chat trabalha em blocos.
+-
+5) utilize exemplos dentro dos prompts
+-
+6) tenha um banco de prompt
+utilizar o mesmo chat
+-
+7) pratique
+--
+/* ****************************************** 
+   ****************************************** */
+>simular situações de aprendizado prático
+simule uma conversa ou prática sobre {tema} e me corrija se eu cometer algum erro.
+
+>como fazer o chatgpt pensar antes de responder? - isso tem um efeito de inverter a lógica da interação.
+antes de responder, me faça perguntas para entender melhor o contexto.
+exemplos:
+	antes de sugerir um plano de estudos, me faça perguntas para entender meu nível atual, meus objetivos e meu tempo disponível.
+	quero que você me ajude a reestruturar meu currículo. mas, antes pergunte tudo o que precisa saber sobre a minha carreira.
+	estou criando um produto novo. antes de dar ideia de nome, me pergunte sobre o público, o diferencial e o posicionamento da marca.
+--
+	qual é o limite da IA?
+ele vai tentar responder! porém nem sempre dá pra confiar
+	qual é a origem dos dados?
+a internet, então provavelmente ela não consumiu dados 100% confiáveis. a IA assume que aquilo é verdadeiro.
+
+o chatGPT é vendido como um assistente.
+/* ****************************************** 
+   ****************************************** */
+Curiosidade: Não existe inteligência artificial de fato. 
+
+A inteligência é um processo orgânico, logo não pode ser artificial. 
+O que temos hoje é uma "consciência artificial", treinada com dados. Quando você corrige o ChatGPT, por exemplo, ele não entende como correção, mas como treino. Quanto melhor o contexto e o nível cultural de quem interage, melhor a IA responde. 
+É pos isso que exitem deiversas IAs surgindo mas no final se comportando de forma parecida, pq elas tem um padrão em comum.
+--
+/* ****************************************** 
+   ****************************************** */
