@@ -1,0 +1,22 @@
+Sou desenvolvedor e estou escrevendo testes unitários para aumentar a cobertura de testes exibidos no relatório JaCoCo.
+
+Baseado neste exemplo de teste:
+```
+teste unitário exemplo
+```
+
+Quero que você gere testes unitários para atingir 100% de cobertura do seguinte trecho de código:
+```
+código a ser coberto
+```
+
+Aqui estão informações adicionais que podem ajudar na cobertura: 
+```
+complemento do código a ser coberto
+```
+
+/* ************************************** **************************** */
+/* ************************************** **************************** */
+/* ************************************** **************************** */
+Importante, fornecer:
+- os testes unitários completos no framewokr (JUnit, Kotest etc);
