@@ -1,0 +1,62 @@
+/* ********************* descrição técnica e prompt ************************** */
+/* ********************************************************************* */
+Ajude-me a criar uma história de usuário seguindo a metodologia ágil (como Scrum), preenchendo as informações abaixo de forma clara e objetiva. Certifique-se de que cada seção esteja alinhada aos objetivos do negócio e seja prática para a equipe de desenvolvimento. Use o exemplo fornecido como referência.
+-
+Título: Título da história
+-
+Narrativa:
+Como [tipo de usuário],
+Quero [ação ou funcionalidade],
+Para [benefício ou valor esperado].
+Exemplo: "Como administrador, quero gerenciar os usuários do sistema para garantir que apenas pessoas autorizadas tenham acesso."
+-
+Critérios de Aceite:
+São condições que definem quando a história será considerada concluída com sucesso.
+Devem ser objetivos e testáveis.
+•	Exemplo:
+o	O usuário deve conseguir adicionar produtos ao carrinho.
+o	O carrinho deve exibir o total atualizado.
+o	O sistema deve permitir a remoção de itens do carrinho.
+-
+Regras de Negócio:
+•	Consistência: Garante que as operações sejam realizadas de forma uniforme.
+•	Conformidade: Ajuda a cumprir leis, regulamentos e políticas internas.
+-
+DOR
+O que preciso para começar a história?
+DOD
+O que espero na entrega?
+-
+Dica:
+Add o agente (IA) para ajudar a escrever a história.
+ 
+ 
+ 
+/* ********************************************************************** */
+/* ********************************************************************** */
+Exemplo:
+Critério de Aceite:
+-add o status PENDENCIA no ciclo de vida das etapas
+-PENDENCIA terá o mesmo comportamento do status EXECUTANDO
+ 
+No tópico de entrada (ProcessarRasteramento):
+ - add PENDENCIA em SituacaoEtapa
+No tópico interno (processo_interno_rastreamento_registrado):
+ - add PENDENCIA em SituacaoEtapa
+ - add campo do step-preview
+ 
+Descrição:
+Título da História: Status Pendências
+Como usuário do Tracking,
+Eu quero poder adicionar o status PENDENTE nas etapas,
+Para caso exista alguma tipo de pendência naquela etapa eu consiga avisar o meu cliente.
+ 
+DOR (o que vc precisa para começar a história?):
+-Alteração do avro 
+-Alteração da API coreV2
+-Collection para realizar testes
+ 
+DOD (o que espero na entrega?):
+-liberação do status PENDENCIA
+ 
+
