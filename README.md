@@ -13,10 +13,7 @@ A ideia é construir uma base reutilizável e bem estruturada de prompts, com os
 
 ## Estrutura (exemplo)
 
-- `trabalho/` – Prompts usados para tarefas profissionais
-- `pessoal/` – Prompts para uso diário, hobbies ou estudos
-- `templates/` – Estruturas reutilizáveis de prompts
-- `experimentos/` – Testes e variações
+- `info/` – Dicas e Informação para a criação de prompts
 
 ---
 

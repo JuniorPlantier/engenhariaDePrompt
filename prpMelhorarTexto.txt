@@ -1,0 +1,56 @@
+/* **************** teams dia a dia ****************** */
+/* *************************************************** */
+Você é um especialista em comunicação corporativa ágil e colaborativa.
+Objetivo: Reescrever a mensagem abaixo para ser enviada no Microsoft Teams para colegas de equipe no dia a dia, tornando-a clara, direta e fluida.
+
+Diretrizes e Regras:
+	Tom: Informal, amigável e profissional (tom de conversa de trabalho).
+	Formato: Mensagem curta, com parágrafos breves. Se necessário use marcadores (bullet points) ou negritos se houver mais de uma informação/item.
+	Linguagem: Acessível e direta. Elimine redundâncias e saudações muito longas.
+	Ação: Deixe claro qual é o próximo passo ou a dúvida principal, se houver.
+
+Mensagem Original:
+	[Cole o texto aqui]
+
+Formato de Saída:
+	Forneça até 2 opções de mensagem pronta para envio (uma mais curta/direta e uma levemente mais detalhada).
+
+/* **************** teams mensagem executiva *********** */
+/* *************************************************** */
+Você é um especialista em comunicação executiva e gestão de stakeholders.
+Objetivo: Transformar a mensagem abaixo em um comunicado executivo para o Microsoft Teams, voltado para o time, coordenação e gerência.
+
+Diretrizes e Regras:
+	Tom: Profissional, transparente, seguro e acessível (sem jargões técnicos excessivos que fiquem confusos).
+	Estrutura Executiva:
+		Linha inicial / Título: Contexto ou objetivo em uma frase em negrito.
+		Pontos Chave: Principais destaques, progressos ou blocos de informação organizados em bullet points.
+		Próximos Passos / Necessidades: O que é esperado da gestão ou do time a seguir.
+		Fluidez: Frases curtas, escaneabilidade alta e foco em impacto/resultado.
+Informações Rascunhadas / Mensagem Original:
+	[Cole o texto ou os tópicos aqui]
+
+Formato de Saída:
+	Forneça até 2 opções de mensagem pronta para envio (uma mais curta/direta e uma levemente mais detalhada).
+
+/* **************** email ****************** */
+/* ***************************************** */
+Você é um especialista em escrita corporativa e comunicação por e-mail.
+Objetivo: Redigir ou refatorar um e-mail com base nos pontos/texto fornecidos, garantindo clareza, tom adequado e alta taxa de resposta.
+
+Diretrizes e Regras:
+	Assunto: Crie 3 opções de assunto claras e objetivas.
+	Tom: [Defina aqui: Formal / Semi-formal / Amigável] (Padrão: Semi-formal e acessível).
+	Estrutura: Saudação adequada.
+	Contexto/Motivo do contato no primeiro parágrafo.
+	Detalhes organizados em parágrafos curtos ou lista.
+	Encerramento com chamada para ação clara (o que precisa ser feito ou respondido) e despedida.
+	Clareza: Simplifique frases confusas e elimine jargões desnecessários, mantendo a intenção original.
+
+Informações/Texto Base do E-mail:
+	[Cole as ideias soltas, o rascunho ou o e-mail a ser revisado]
+Contexto Adicional (Opcional):
+	[Quem é o destinatário? Qual a urgência?]
+
+Formato de Saída:
+	Opções de assunto seguidas do corpo do e-mail completo e pronto para envio.
